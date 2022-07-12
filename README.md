@@ -1,4 +1,4 @@
-API REST full using🛠️ Express, Node.js, fileSystem, CSS ⚡️
+API REST full using🛠️ Express, Node.js, fileSystem, HTML5, CSS3 ⚡️
 
 [TRY API](https://nodejs-express-api-rest.herokuapp.com/)🔑 
 
