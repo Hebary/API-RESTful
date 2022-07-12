@@ -10,7 +10,7 @@
             item.id = idGenerator();
         }
         this.items = [...this.items, item];
-        return item.id;
+        return this.items;
     }
 
     getById(id) {
